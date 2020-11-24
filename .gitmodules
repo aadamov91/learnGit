@@ -1,0 +1,3 @@
+[submodule "GitLearnSub"]
+	path = GitLearnSub
+	url = https://github.com/aadamov91/GitLearnSub.git
